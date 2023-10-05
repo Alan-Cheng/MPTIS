@@ -3,3 +3,6 @@
 
 ## HW1
  [資產數量對分散風險的影響（多角化）](https://github.com/Alan-Cheng/MPTIS/blob/main/HW1/HW1_program.ipynb)
+
+## HW2
+ [效率前緣(切線法與火腿法)](https://github.com/Alan-Cheng/MPTIS/blob/main/HW2/HW2_program.ipynb)
