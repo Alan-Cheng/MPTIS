@@ -9,4 +9,4 @@
  [效率前緣(切線法與火腿法)](https://github.com/Alan-Cheng/MPTIS/blob/main/HW2/HW2_program.ipynb)
 
 ## HW3
- [台灣50指數追蹤](https://github.com/Alan-Cheng/MPTIS/blob/main/HW2/HW3_program.ipynb)
+ [台灣50指數追蹤](https://github.com/Alan-Cheng/MPTIS/blob/main/HW3/HW3_program.ipynb)
