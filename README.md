@@ -11,5 +11,5 @@
 ## HW3
  [台灣50指數追蹤](https://github.com/Alan-Cheng/MPTIS/blob/main/HW3/HW3_program.ipynb)
 
- ## HW3
- [台灣50指數增值](https://github.com/Alan-Cheng/MPTIS/blob/main/HW4/HW4_program.ipynb)
+ ## HW4
+ [台灣加權指數追蹤](https://github.com/Alan-Cheng/MPTIS/blob/main/HW4/HW4_program.ipynb)
